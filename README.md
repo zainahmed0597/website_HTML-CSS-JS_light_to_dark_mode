@@ -1,6 +1,6 @@
-# website_HTML-CSS-JS_light_to_dark_mode
+# Website using HTML-CSS-JS light mode to dark mode
 
-# referance line: https://youtu.be/NqSM99bxIug
+## Referance link: https://youtu.be/NqSM99bxIug
 
 ![alt text](/assets/images/Screenshot_light.png)
 
