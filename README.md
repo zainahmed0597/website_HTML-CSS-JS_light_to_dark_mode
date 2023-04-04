@@ -2,6 +2,6 @@
 
 ## Referance link: https://youtu.be/NqSM99bxIug
 
-![alt text](/assets/images/Screenshot_light.png)
+![alt text](images/Screenshot_light.png)
 
-![alt text](/assets/images/Screenshot_dark.png)
+![alt text](images/Screenshot_dark.png)
